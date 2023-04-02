@@ -4,7 +4,7 @@ import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { Router, NavigationStart } from '@angular/router';
 
 import { singleSpaAngular, getSingleSpaExtraProviders } from 'single-spa-angular';
-
+import 'zone.js/dist/zone';
 
 import { AppModule } from './app/app.module';
 import { environment } from './environments/environment';

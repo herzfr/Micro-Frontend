@@ -33,7 +33,7 @@
               "libraryName": "app-angular",
               "libraryTarget": "umd"
             },
-            "deployUrl": "http://localhost:4200/"
+            "deployUrl": "http://localhost:8081/"
           },
           "configurations": {
             "production": {
